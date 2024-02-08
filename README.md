@@ -4,7 +4,7 @@ Desarrollador Full Stack | Costa Rica
 ### Conéctate conmigo:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-emanuelp%C3%A9rez-blue)](https://www.linkedin.com/in/emanuel-p%C3%A9rez/)
 
-### Idiomas y Herramientas:
+### Lenguajes y Herramientas:
 <div>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>

@@ -27,5 +27,3 @@ Desarrollador Full Stack | Costa Rica
 <div align="center">
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=emaxpm&theme=algolia"/>
 </div>
-
-

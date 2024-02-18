@@ -1,12 +1,12 @@
 ## Emanuel Pérez
-Hola, soy Emanuel Pérez, un apasionado Desarrollador Full Stack de Costa Rica. Soy una persona responsable y social, capaz de adaptarme a diferentes entornos de trabajo, ya sea colaborando en equipo o asumiendo proyectos de forma independiente,
-mi capacidad para aprender rápidamente me impulsan a estar en constante estudio. 
+Hola 👋, soy Emanuel Pérez, un apasionado Desarrollador Full Stack 🔄 de Costa Rica. Soy una persona responsable y social, capaz de adaptarme a diferentes entornos de trabajo, ya sea colaborando en equipo o asumiendo proyectos de forma independiente,
+mi capacidad para aprender rápidamente me impulsan a estar en constante estudio 📚. 
 
 ### Habilidades y Enfoque:
-Me apasiona la creatividad del Frontend y la lógica del Backend. Esto me permite abordar proyectos de manera integral, asegurando una experiencia completa para el usuario.
+Me apasiona la creatividad 🎨 del Frontend 🌐 y la lógica 🧠 del Backend ⚙️. Esto me permite abordar proyectos de manera integral, asegurando una experiencia completa para el usuario.
 
 ### Metas:
-Busco expandir mis habilidades y contribuir a proyectos desafiantes, aspiro a desempeñar un papel clave en proyectos innovadores que impacten positivamente en la sociedad.
+Busco 🚀 expandir mis habilidades y contribuir a proyectos desafiantes 💪, aspiro a desempeñar un papel clave en proyectos innovadores 🌟 que impacten positivamente en la sociedad 🌍.
 
 ### Conéctate conmigo:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-emanuelp%C3%A9rez-blue)](https://www.linkedin.com/in/emanuel-p%C3%A9rez/)

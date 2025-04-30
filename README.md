@@ -32,5 +32,6 @@ Busco 🔍 expandir 🚀 mis habilidades y contribuir a proyectos desafiantes �
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=emaxpm&show_icons=true&locale=en&count_private=true&theme=algolia"/>
 </div>
 <div align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=emaxpm&theme=algolia"/>
+  <img height="180em" src="https://streak-stats.demolab.com/?user=emaxpm&theme=algolia"/>
 </div>
+
